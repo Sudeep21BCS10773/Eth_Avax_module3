@@ -55,4 +55,3 @@ This is a simple example contract and does not implement advanced security featu
 ## License
 
 This smart contract is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
